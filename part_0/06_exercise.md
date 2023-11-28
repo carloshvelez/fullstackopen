@@ -1,3 +1,4 @@
+```mermaid
 sequenceDiagram
     participant browser as Browser
     participant server as Server
@@ -13,3 +14,4 @@ sequenceDiagram
     deactivate Server
 
     Note over Browser: Browser updates the UI with the new note without reloading the page
+```
