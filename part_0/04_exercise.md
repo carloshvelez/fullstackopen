@@ -13,4 +13,4 @@ sequenceDiagram
     deactivate Server
 
     Note over Browser: Browser updates the UI with the new note
-    ```
+```
