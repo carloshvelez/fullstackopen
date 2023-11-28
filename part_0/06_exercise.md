@@ -1,7 +1,7 @@
 ```mermaid
 sequenceDiagram
-    participant browser as Browser
-    participant server as Server
+    participant Browser
+    participant Server
 
     Note over Browser: User is on the SPA version of the notes app
     Note over Browser: User writes something in the text field
